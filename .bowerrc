@@ -1,0 +1,13 @@
+{
+    "registry": {
+        "register": "http://localhost:3333",
+        "publish":  "http://localhost:3333",
+
+        "search": [
+            "http://localhost:3333"
+          , "https://bower.herokuapp.com"
+        ]
+    },
+
+    "directory": "src/components"
+}

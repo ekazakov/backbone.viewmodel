@@ -1,0 +1,29 @@
+{
+  "name": "backbone.viewmodel",
+  "version": "0.1.0",
+  "authors": [
+    "Evgeniy Kazakov <evgeniy.kazakov@gmail.com>"
+  ],
+  "license": "MIT",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone": "~1.1.2",
+    "underscore": "~1.6.0",
+    "jquery": "~2.1.0",
+    "requirejs": "~2.1.10"
+  },
+  "devDependencies": {
+    "mocha": "~1.17.1",
+    "chai": "~1.9.0",
+    "sinon": "~1.8.2",
+    "sinon-chai": "~2.5.0"
+  }
+}

@@ -1,0 +1,7 @@
+*.sublime-workspace
+
+src/components
+node_modules/
+tmp/
+coverage/
+Backbone.Super.sublime-project

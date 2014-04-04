@@ -1,0 +1,29 @@
+{
+    "laxcomma":     false,
+    "laxbreak":     true,
+    "globalstrict": false,
+    "eqnull":       true,
+    "browser":      true,
+    "undef":        true,
+    "unused":       true,
+    "curly":        true,
+    "expr":         true,
+    "quotmark":     "double",
+
+    "globals": {
+        "console":    true,
+        "globals":    true,
+        "require":    true,
+        "define":     true,
+        "describe":   true,
+        "it":         true,
+        "beforeEach": true,
+        "before":     true,
+        "after":      true,
+        "afterEach":  true,
+        "expect":     true,
+        "sinon":      true,
+        "requirejs":  true,
+        "module":     true
+    }
+}
